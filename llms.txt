@@ -1,0 +1,19 @@
+URL: https://www.werentthempropertymanagement.com/
+# We Rent Them Property Management | Salt Lake City & Wasatch Front
+- Family-owned property management company providing services in Salt Lake City and across the Wasatch Front, focused on stress-free management including marketing, tenant screening, maintenance, and rent collection.
+
+URL: https://www.werentthempropertymanagement.com/about-us
+## Company Overview
+- Family-owned and operated since 1907, emphasizing long-term experience and a service-oriented approach to property management.
+
+URL: https://www.werentthempropertymanagement.com/tenants-resources
+## Tenant Resources
+- Information and resources for current and prospective tenants.
+
+URL: https://www.werentthempropertymanagement.com/rental-search
+## Rental Search
+- Search tool for available rental properties managed by the company.
+
+URL: https://www.werentthempropertymanagement.com/property-management-pricing
+## Pricing
+- Overview of property management pricing and service structure.
